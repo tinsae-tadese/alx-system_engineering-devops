@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C school.mgc
+magic search/0 string/[SCHOOL]* School 
