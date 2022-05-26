@@ -1,2 +1,2 @@
-#!/bin/bash
-magic search/0 string/[SCHOOL]* School 
+#!/bin/bin
+0 string SCHOOL
