@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head | sort -c
+ls -A1 --sort=time | head -n 10
